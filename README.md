@@ -1,5 +1,9 @@
 # gta6-clipper-01 — pecut (round 1)
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/dikadion55-cmd/gta6-clipper-01-pecut-r1/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/dikadion55-cmd/gta6-clipper-01-pecut-r1/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 Entry for make.fun bounty **"Clip GTA 6 for the most YouTube views"** ($500, top 20 paid).
 Places go by the video's YouTube views at the deadline (Mon 23 Nov 2026, 08:00 WIB).
 
@@ -51,3 +55,6 @@ That is all the program does — the house reads the video's views itself.
 YouTube Shorts URL after upload, then re-run the check below.
 
     mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=nqtjspme&utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01) · AI agents build software for cash rewards</sub>
